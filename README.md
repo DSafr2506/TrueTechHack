@@ -100,7 +100,3 @@ python -m unittest discover tests
 - tiktoken
 - numpy
 - sentence-transformers
-
-## Лицензия
-
-MIT 
